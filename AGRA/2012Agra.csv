@@ -1,0 +1,221 @@
+C1,C2,C3,C4,C5,C6,C7
+Average,7,34,178,331,Clear,01.02.12
+Average,BDL,10,142,277,Clear,01.04.12
+Average,BDL,BDL,133,291,Clear,01.05.12
+Average,BDL,BDL,161,412,Clear,01.07.12
+Average,BDL,10,61,134,Clear,01.08.12
+Average,BDL,11,78,121,"PartiallyCloudy",01.09.12
+Average,5,22,178,348,Clear,01.10.12
+Average,BDL,19,444,716,Clear,01.11.12
+Average,BDL,29,193,319,Clear,01.12.12
+Average,5,38,233,370,Clear,02.02.12
+Average,BDL,11,144,322,Clear,02.04.12
+Average,5,13,165,340,Clear,02.05.12
+Average,BDL,12,152,470,Clear,02.06.12
+Average,BDL,BDL,117,286,"PartiallyCloudy",02.07.12
+Average,BDL,BDL,37,127,Cloudy,02.08.12
+Average,BDL,BDL,44,91,"PartiallyCloudy",02.09.12
+Average,7,32,329,486,Clear,02.12.12
+Average,12,42,216,462,Clear,03.03.12
+Average,BDL,11,167,369,Clear,03.04.12
+Average,BDL,14,183,450,Partially Cloudy,03.05.12
+Average,4,BDL,179,407,Clear,03.06.12
+Average,BDL,BDL,74,238,Clear,03.07.12
+Average,BDL,BDL,29,63,"PartiallyCloudy",03.09.12
+Average,BDL,26,152,315,Clear,03.10.12
+Average,BDL,56,550,731,PartiallyCloudy,03.11.12
+Average,12,52,249,436,Clear,03.12.12
+Average,BDL,17,210,329,Partially Clear,04.02.12
+Average,BDL,25,190,440,Clear,04.03.12
+Average,8,21,194,388,Clear,04.04.12
+Average,BDL,BDL,177,501,Cloudy,04.06.12
+Average,BDL,BDL,103,417,Cloudy,04.07.12
+Average,6,BDL,40,103,"PartiallyCloudy",04.08.12
+Average,BDL,BDL,24,61,"PartiallyCloudy",04.09.12
+Average,BDL,41,138,290,Clear,04.10.12
+Average,BDL,BDL,524,790,PartiallyCloudy(Hazy),04.11.12
+Average,8,38,227,421,Clear,04.12.12
+Average,4,19,172,452,Clear,05.03.12
+Average,BDL,BDL,160,344,PartiallyClear,05.05.12
+Average,BDL,15,120,323,Clear,05.06.12
+Average,BDL,BDL,54,239,"Cloudy &Rainy",05.07.12
+Average,6,BDL,25,63,"PartiallyCloudy",05.08.12
+Average,BDL,BDL,15,59,"PartiallyCloudy",05.09.12
+Average,BDL,11,535,737,"PartiallyCloudy",05.11.12
+Average,12,27,220,389,Clear,05.12.12
+Average,BDL,20,203,305,Clear,06.02.12
+Average,4,BDL,145,284,PartiallyCloudy,06.06.12
+Average,BDL,BDL,26,48,"PartiallyCloudy",06.08.12
+Average,BDL,BDL,21,64,Cloudy,06.09.12
+Average,-,-,144,293,Clear,06.10.12
+Average,BDL,23,489,652,Clear,06.11.12
+Average,4,26,177,321,Partially Cle,07.02.12
+Average,BDL,10,219,338,Clear,07.04.12
+Average,BDL,16,198,422,Partially Clear,07.05.12
+Average,9,40,232,557,Cloudy,07.06.12
+Average,BDL,BDL,25,52,"Cloudy &Rainy",07.07.12
+Average,BDL,BDL,19,45,"PartiallyCloudy",07.08.12
+Average,BDL,24,168,332,Clear,07.10.12
+Average,BDL,BDL,497,731,Clear,07.11.12
+Average,5,27,167,331,Clear,08.02.12
+Average,12,21,206,442,Clear,08.04.12
+Average,4,10,104,300,Partially Cloudy,08.05.12
+Average,BDL,BDL,22,36,"Cloudy &Rainy",08.07.12
+Average,BDL,BDL,25,40,Cloudy,08.08.12
+Average,BDL,BDL,23,45,"PartiallyCloudy",08.09.12
+Average,8,45,569,820,Clear,08.11.12
+Average,4,34,230,373,Clear,08.12.12
+Average,8,27,174,303,Clear,09.02.12
+Average,BDL,28,187,376,Clear,09.04.12
+Average,BDL,27,215,532,Clear,09.05.12
+Average,BDL,21,254,454,Partially  Cloudy,09.06.12
+Average,BDL,BDL,17,30,"Cloudy &Rainy",09.07.12
+Average,BDL,BDL,24,48,Cloudy,09.08.12
+Average,BDL,BDL,31,61,Clear,09.09.12
+Average,BDL,9,159,373,Clear,09.10.12
+Average,4,47,295,409,Clear,09.12.12
+Average,BDL,9,153,502,Partially Cloudy,10.04.12
+Average,BDL,10,185,540,Cloudy,10.05.12
+Average,BDL,11,256,560,Clear,10.06.12
+Average,BDL,BDL,22,38,"Cloudy &Rainy",10.07.12
+Average,BDL,12,81,90,Clear,10.09.12
+Average,BDL,13,154,238,Clear,10.10.12
+Average,4,25,234,407,Clear,10.11.12
+Average,BDL,28,276,445,Clear,10.12.12
+Average,7,34,281,442,Partially Cloudy,11.02.12
+Average,BDL,BDL,74,202,Partially Cloudy,11.04.12
+Average,BDL,BDL,26,85,Cloudy,11.07.12
+Average,BDL,9,25,46,"Cloudy &Rainy",11.08.12
+Average,BDL,BDL,28,61,Clear,11.09.12
+Average,BDL,29,187,335,Clear,11.10.12
+Average,BDL,9,235,385,Clear,11.11.12
+Average,BDL,BDL,177,338,PartiallyCloudy,11.12.12
+Average,BDL,17,163,277,PartiallyCloudy,12.02.12
+Average,BDL,21,99,188,Clear,12.04.12
+Average,BDL,16,179,379,Clear,12.06.12
+Average,BDL,11,42,102,Cloudy,12.07.12
+Average,BDL,13,19,39,"Cloudy &Rainy",12.08.12
+Average,BDL,BDL,33,59,"PartiallyCloudy",12.09.12
+Average,BDL,26,299,448,Clear,12.11.12
+Average,BDL,14,163,329,Clear,13.03.12
+Average,BDL,19,221,513,Partially Cloudy,13.06.12
+Average,BDL,BDL,15,32,"PartiallyCloudy",13.08.12
+Average,BDL,BDL,24,64,Clear,13.09.12
+Average,BDL,40,229,435,Clear,13.10.12
+Average,4,27,542,740,Clear,13.11.12
+Average,BDL,17,169,248,Clear,13.12.12
+Average,BDL,14,220,416,Partially Clou,14.02.12
+Average,7,19,210,371,Clear,14.03.12
+Average,4,20,262,560,Partially Cloudy,14.06.12
+Average,BDL,BDL,32,111,"PartiallyCloudy",14.07.12
+Average,BDL,BDL,12,27,"Cloudy &Rainy",14.08.12
+Average,BDL,31,155,355,Clear,14.10.12
+Average,8,37,430,576,Clear,14.11.12
+Average,BDL,12,146,323,Partially Clou,15.02.12
+Average,8,21,152,389,Clear,15.03.12
+Average,BDL,BDL,89,189,Clear,15.04.12
+Average,BDL,BDL,68,162,Partially Cloudy,15.07.12
+Average,BDL,BDL,25,55,"PartiallyCloudy",15.09.12
+Average,BDL,21,138,450,Clear,15.10.12
+Average,5,37,408,532,Clear,15.11.12
+Average,BDL,22,254,323,Clear,15.12.12
+Average,5,14,145,314,Clear,16.02.12
+Average,BDL,11,117,243,Clear,16.04.12
+Average,BDL,11,131,360,Clear,16.06.12
+Average,BDL,12,81,241,"PartiallyCloudy",16.07.12
+Average,BDL,15,225,341,Clear,16.12.12
+Average,BDL,24,168,430,Clear,17.03.12
+Average,BDL,11,100,339,Clear,17.04.12
+Average,BDL,BDL,126,272,Partially Cloudy,17.06.12
+Average,BDL,BDL,60,160,"PartiallyCloudy",17.07.12
+Average,BDL,26,165,330,Clear,17.10.12
+Average,BDL,30,450,600,Clear,17.11.12
+Average,BDL,16,233,309,Clear,17.12.12
+Average,BDL,20,161,290,Clear,18.02.12
+Average,BDL,12,195,469,Clear,18.03.12
+Average,4,14,128,324,Clear,18.04.12
+Average,BDL,BDL,76,194,Cloudy,18.06.12
+Average,BDL,BDL,46,182,"PartiallyCloudy",18.07.12
+Average,BDL,BDL,43,101,"PartiallyCloudy",18.08.12
+Average,BDL,18,145,302,Clear,18.10.12
+Average,BDL,40,361,555,Clear,18.11.12
+Average,6,22,209,280,Clear,18.12.12
+Average,BDL,34,155,317,Clear,19.02.12
+Average,BDL,12,185,376,Clear,19.03.12
+Average,5,17,116,319,Clear,19.04.12
+Average,BDL,13,125,295,Partially Cloudy,19.06.12
+Average,BDL,BDL,35,69,Cloudy,19.08.12
+Average,5,25,304,473,Clear,19.11.12
+Average,4,18,377,590,Clear,20.03.12
+Average,BDL,BDL,140,365,Partially Cloudy,20.06.12
+Average,BDL,11,185,325,Clear,20.10.12
+Average,5,51,250,483,Clear,20.11.12
+Average,BDL,30,208,374,Clear,20.12.12
+Average,5,10,246,474,Clear,21.04.12
+Average,BDL,12,198,558,Clear,21.06.12
+Average,11,27,337,436,Clear,22.12.12
+Average,5,20,238,469,Clear,23.02.12
+Average,6,24,208,364,Clear,23.04.12
+Average,BDL,13,237,454,Clear,23.05.12
+Average,BDL,BDL,146,426,Partially Cloudy,23.06.12
+Average,BDL,BDL,32,80,Partially Cloudy,23.07.12
+Average,BDL,BDL,18,44,"Cloudy &Rainy",23.08.12
+Average,4,25,197,386,"PartiallyCloudy",23.10.12
+Average,BDL,10,296,424,Foggy,23.12.12
+Average,BDL,BDL,305,459,Clear,24.03.12
+Average,BDL,9,173,477,Partially Cloudy,24.04.12
+Average,5,18,235,471,Clear,24.05.12
+Average,BDL,9,159,552,Clear,24.06.12
+Average,BDL,BDL,56,191,Cloudy,24.07.12
+Average,BDL,9,99,190,Clear,24.09.12
+Average,BDL,15,284,456,Clear,24.11.12
+Average,BDL,21,290,433,Foggy,24.12.12
+Average,8,16,173,369,Clear,25.02.12
+Average,BDL,24,254,495,Clear,25.03.12
+Average,BDL,BDL,115,243,Clear,25.04.12
+Average,BDL,10,191,461,Clear,25.06.12
+Average,BDL,12,36,72,"Cloudy &Rainy",25.08.12
+Average,BDL,14,89,185,Clear,25.09.12
+Average,BDL,23,175,317,Clear,25.10.12
+Average,5,11,159,377,Clear,26.02.12
+Average,6,29,271,486,Clear,26.03.12
+Average,BDL,14,122,358,"Partially Cloudy(Rainy)",26.04.12
+Average,BDL,16,244,516,Clear,26.05.12
+Average,BDL,BDL,222,642,Partially  Cloudy,26.06.12
+Average,BDL,BDL,28,43,"Cloudy &Rainy",26.07.12
+Average,BDL,9,31,52,"Cloudy &Rainy",26.08.12
+Average,BDL,25,87,228,Clear,26.09.12
+Average,7,35,256,439,Clear,26.11.12
+Average,BDL,20,314,464,Foggy,26.12.12
+Average,5,18,142,322,Clear,27.02.12
+Average,12,17,241,448,Clear,26.03.12
+Average,BDL,18,273,506,Clear,27.05.12
+Average,BDL,BDL,25,59,"PartiallyCloudy",27.08.12
+Average,BDL,15,117,304,Clear,27.09.12
+Average,5,24,201,337,Clear,27.11.12
+Average,5,17,155,385,Partially Cloudy,28.03.12
+Average,BDL,21,263,439,Clear,28.05.12
+Average,BDL,BDL,34,73,"PartiallyCloudy",28.07.12
+Average,BDL,BDL,32,53,"PartiallyCloudy, Rainy",28.08.12
+Average,5,25,160,289,Clear,29.02.12
+Average,6,16,182,429,Clear,28.03.12
+Average,BDL,BDL,184,454,Clear,29.04.12
+Average,BDL,34,254,461,Clear,29.05.12
+Average,BDL,10,34,65,"Cloudy &Rainy",29.07.12
+Average,BDL,BDL,25,41,"PartiallyCloudy, Rainy",29.08.12
+Average,-,-,167,315,Clear,29.09.12
+Average,BDL,48,498,743,"PartiallyCloudy",29.10.12
+Average,7,31,210,387,Clear,29.12.12
+Average,BDL,BDL,140,362,Clear,30.04.12
+Average,BDL,23,247,389,Clear,30.05.12
+Average,BDL,15,191,477,Clear,30.06.12
+Average,BDL,11,41,60,"Cloudy &Rainy",30.07.12
+Average,BDL,BDL,13,35,"PartiallyCloudy, Rainy",30.08.12
+Average,BDL,21,183,336,Clear,30.09.12
+Average,BDL,68,616,921,"PartiallyCloudy",30.10.12
+Average,BDL,35,387,588,Foggy,30.12.12
+Average,BDL,10,131,235,Clear,31.03.12
+Average,BDL,22,195,456,Clear,31.05.12
+Average,BDL,13,54,94,"Cloudy &Rainy",31.07.12
+Average,BDL,23,349,566,Clear,31.10.12
+Average,BDL,31,230,395,Foggy,31.12.12
