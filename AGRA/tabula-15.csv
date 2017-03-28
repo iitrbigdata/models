@@ -1,0 +1,289 @@
+A1,A2,A3,A4,A5,A6,Dates
+Average,BDL,22,300,393,Cloudy,01.01.15
+Average,BDL,BDL,182,231,Clear,01.02.15
+Average,BDL,19,32,85,Cloudy &,01.03.15
+Average,BDL,13,146,197,Clear,01.04.15
+Average,BDL,10,220,439,clear,01.06.15
+Average,BDL,40,55,184,Psartially,01.07.15
+Average,BDL,BDL,48,175,Partially,01.08.15
+Average,BDL,BDL,139,292,Clear,01.09.15
+Average,BDL,10,177,302,Clear,01.10.15
+Average,BDL,16,154,222,Clear,01.11.15
+Average,BDL,14,174,287,Clear,01.12.15
+Average,BDL,13,174,240,Clear,02.02.15
+Average,BDL,BDL,32,49,Cloudy &,02.03.15
+Average,BDL,BDL,176,311,Clear,02.05.15
+Average,BDL,BDL,171,266,Clear,02.06.15
+Average,BDL,9,88,165,Clear,02.07.15
+Average,BDL,BDL,46,121,Cloudy,02.08.15
+Average,BDL,BDL,174,322,Clear,02.09.15
+Average,BDL,22,172,263,Clear,02.11.15
+Average,BDL,31,330,423,Clear,02.12.15
+Average,BDL,19,158,189,Cloudy,03.01.15
+Average,BDL,BDL,172,251,Clear,03.02.15
+Average,BDL,37,111,181,Partially,03.03.15
+Average,BDL,13,183,327,Clear,03.05.15
+Average,6,BDL,106,197,Clear,03.06.15
+Average,BDL,BDL,60,160,Partially,03.08.15
+Average,BDL,9,169,297,Clear,03.09.15
+Average,BDL,17,229,330,Clear,03.10.15
+Average,BDL,24,164,304,Clear,03.11.15
+Average,4,38,241,389,Clear,03.12.15
+Average,BDL,20,133,212,Clear,04.02.15
+Average,BDL,16,58,-,Partially,04.04.15
+Average,BDL,BDL,112,144,Clear,04.06.15
+Average,4,BDL,203,570,Clear,04.07.15
+Average,BDL,BDL,65,125,Partially,04.08.15
+Average,BDL,23,211,363,Clear,04.11.15
+Average,BDL,23,192,267,Clear,05.01.15
+Average,BDL,30,216,276,Clear,05.02.15
+Average,BDL,58,-,-,Clear,05.03.15
+Average,BDL,27,123,196,Partially,05.04.15
+Average,BDL,24,266,428,Clear,05.05.15
+Average,BDL,BDL,166,520,Partially,05.07.15
+Average,BDL,BDL,42,101,Partially,05.08.15
+Average,BDL,15,199,318,Clear,05.09.15
+Average,BDL,15,250,337,Clear,05.10.15
+Average,BDL,12,150,400,Clear,05.11.15
+Average,4,BDL,349,466,Clear,05.12.15
+Average,BDL,16,203,251,Clear,06.01.15
+Average,BDL,12,111,197,Clear,06.04.15
+Average,BDL,21,165,353,Clear,06.05.15
+Average,BDL,10,146,317,Clear,06.06.15
+Average,BDL,BDL,38,185,Clear,06.07.15
+Average,BDL,21,38,174,Cloudy,06.08.15
+Average,BDL,BDL,163,259,Clear,06.09.15
+Average,BDL,18,264,`455,Clear,06.10.15
+Average,BDL,21,319,408,Clear,06.12.15
+Average,BDL,20,252,441,Foggy,07.01.15
+Average,BDL,29,195,248,Clear,07.02.15
+Average,BDL,42,92,145,Clear,07.03.15
+Average,BDL,BDL,124,300,Clear,07.04.15
+Average,BDL,13,239,460,Clear,07.05.15
+Average,BDL,13,127,320,Clear,07.06.15
+Average,BDL,BDL,39,100,Cloudy,07.07.15
+Average,BDL,10,115,244,Clear,07.09.15
+Average,6,13,201,376,Clear,07.10.15
+Average,BDL,24,149,335,Clear,07.11.15
+Average,BDL,17,278,349,Partially Cloudy,07.12.15
+Average,BDL,10,228,378,Foggy,08.01.15
+Average,BDL,27,183,247,Clear,08.02.15
+Average,BDL,17,64,124,Clear,08.03.15
+Average,5,19,159,293,Clear,08.04.15
+Average,BDL,15,222,355,Clear,08.06.15
+Average,BDL,13,83,145,Cloudy,08.07.15
+Average,BDL,29,268,417,Clear,08.10.15
+Average,BDL,17,176,387,Clear,08.11.15
+Average,BDL,10,256,381,Clear,08.12.15
+Average,BDL,34,191,345,Clear,09.02.15
+Average,5,BDL,156,465,Clear,09.03.15
+Average,BDL,17,136,270,Clear,09.04.15
+Average,BDL,15,184,434,Clear,09.05.15
+Average,4,9,169,495,Clear,09.06.15
+Average,BDL,9,34,97,Cloudy and rainy,09.07.15
+Average,BDL,BDL,38,71,Cloudy,09.08.15
+Average,BDL,BDL,112,231,Clear,09.09.15
+Average,BDL,17,195,373,Clear,09.11.15
+Average,BDL,20,266,363,Clear,09.12.15
+Average,BDL,41,349,434,Partially,10.01.15
+Average,BDL,26,167,278,Clear,10.02.15
+Average,BDL,19,144,240,Clear,10.03.15
+Average,BDL,12,160,360,Clear,10.05.15
+Average,4,BDL,129,309,Partially Cloudy,10.06.15
+Average,4,10,37,81,Partially,10.08.15
+Average,BDL,BDL,154,262,Clear,10.09.15
+Average,BDL,19,299,338,Clear,10.10.15
+Average,BDL,13,215,347,Clear,10.11.15
+Average,BDL,16,228,368,Clear,10.12.15
+Average,BDL,11,256,474,Partially,11.01.15
+Average,BDL,22,184,288,Clear,11.02.15
+Average,4,20,161,293,Clear,11.03.15
+Average,BDL,13,142,269,Clear &,11.04.15
+Average,5,BDL,180,594,Clear,11.05.15
+Average,BDL,17,136,270,Clear,11.06.15
+Average,BDL,12,98,171,Partially Cloudy,11.07.15
+Average,BDL,14,22,49,Cloudy and rainy,11.08.15
+Average,BDL,10,270,376,Clear,11.10.15
+Average,BDL,23,295,432,Clear,11.11.15
+Average,BDL,15,287,385,Partially,12.01.15
+Average,4,13,210,343,Clear,12.02.15
+Average,8,33,156,296,Clear,12.03.15
+Average,BDL,11,62,151,Cloudy &,12.04.15
+Average,BDL,BDL,141,437,Clear,12.05.15
+Average,BDL,BDL,26,57,Cloudy,12.07.15
+Average,BDL,9,36,94,Partially,12.08.15
+Average,BDL,BDL,77,146,Partially Cloudy,12.09.15
+Average,BDL,15,215,372,Clear,12.10.15
+Average,BDL,11,313,460,Clear,12.11.15
+Average,BDL,9,265,389,Clear,12.12.15
+Average,BDL,9,224,273,Partially,13.01.15
+Average,BDL,9,76,135,Partially,13.04.15
+Average,BDL,BDL,93,236,Clear,13.05.15
+Average,BDL,BDL,130,372,Partially Cloudy,13.06.15
+Average,BDL,BDL ,88,127,Partially Cloudy,13.07.15
+Average,BDL,BDL ,68,110,Partially,13.08.15
+Average,BDL,BDL,87,125,Partially Cloudy,13.09.15
+Average,BDL,9,170,313,Clear,13.10.15
+Average,BDL,12,240,344,Clear,13.12.15
+Average,BDL,21,162,304,Clear,14.02.15
+Average,BDL,11,44,88,Cloudy &,14.03.15
+Average,BDL,14,90,190,Clear,14.05.15
+Average,BDL,BDL,81,165,Partially Cloudy,14.06.15
+Average,BDL,BDL,51,189,Partially Cloudy,14.07.15
+Average,BDL,11,118,171,Clear,14.09.15
+Average,BDL,BDL,115,340,Clear,14.10.15
+Average,BDL,62,356,618,Clear,14.11.15
+Average,BDL,32,195,309,Clear,14.12.15
+Average,BDL,16,320,405,Partially,15.01.15
+Average,BDL,12,240,393,Clear,15.02.15
+Average,7,9,18,30,Cloudy &,15.03.15
+Average,BDL,12,55,142,Clear,15.05.15
+Average,BDL,11,121,212,Partially Cloudy,15.06.15
+Average,BDL,BDL,132,223,Cloudy,15.07.15
+Average,BDL,BDL,LR,LR,Partially Cloudy,15.09.15
+Average,BDL,9,183,292,Clear,15.10.15
+Average,BDL,53,305,575,Clear,15.11.15
+Average,BDL,42,208,329,Clear,15.12.15
+Average,4,18,190,333,Clear,16.02.15
+Average,BDL,16,77,12,Clear,16.03.15
+Average,BDL,BDL,101,246,Clear,16.04.15
+Average,4,12,122,377,Partially Cloudy,16.05.15
+Average,BDL,17,136,270,Clear,16.06.15
+Average,BDL,10,90,311,Cloudy,16.07.15
+Average,BDL,BDL,28,51,Partially,16.08.15
+Average,BDL,BDL,99,135,Clear,16.09.15
+Average,BDL,21,222,441,Clear,16.11.15
+Average,BDL,21,229,302,Clear,16.12.15
+Average,BDL,20,229,324,Partially,17.01.15
+Average,BDL,14,108,165,Clear,17.04.15
+Average,BDL,10,131,217,Clear,17.05.15
+Average,BDL,BDL,162,270,Clear,17.06.15
+Average,BDL,14,41,64,Cloudy,17.08.15
+Average,BDL,BDL,42,97,Partially Cloudy,17.09.15
+Average,BDL,11,213,400,Clear,17.10.15
+Average,BDL,17,248,415,Clear,17.11.15
+Average,BDL,58,306,420,Clear,17.12.15
+Average,BDL,18,218,301,Partially,18.01.15
+Average,BDL,17,206,336,Clear,18.02.15
+Average,BDL,12,87,169,Clear,18.03.15
+Average,BDL,25,202,419,Clear,18.04.15
+Average,BDL,13,124,295,Clear,18.05.15
+Average,BDL,11,110,287,Clear,18.06.15
+Average,BDL,BDL,34,85,Partially,18.08.15
+Average,BDL,BDL,155,364,Clear,18.10.15
+Average,4,52,284,468,Clear,18.11.15
+Average,BDL,17,226,300,Partially,19.01.15
+Average,BDL,11,209,273,Clear,19.02.15
+Average,BDL,22,150,208,Clear,19.03.15
+Average,BDL,19,270,441,Clear,19.04.15
+Average,BDL,10,112,285,Clear,19.05.15
+Average,BDL,BDL,62,107,Cloudy,19.07.15
+Average,BDL,BDL,45,94,Partially,19.08.15
+Average,BDL,14,72,128,Clear,19.09.15
+Average,BDL,14,209,375,Clear,19.10.15
+Average,4,42,329,571,Clear,19.11.15
+Average,BDL,27,374,532,Clear,19.12.15
+Average,BDL,18,224,322,Cloudy,20.01.15
+Average,BDL,BDL,246,641,Clear,20.04.15
+Average,BDL,18,102,208,Clear,20.05.15
+Average,BDL,10,151,354,Clear,20.06.15
+Average,BDL,BDL,41,133,Partially,20.08.15
+Average,BDL,11,72,115,Clear,20.09.15
+Average,BDL,13,169,359,Partially,20.10.15
+Average,BDL,47,390,522,Clear,20.12.15
+Average,5,12,216,311,Partially,21.01.15
+Average,4,16,156,315,Clear,21.02.15
+Average,BDL,17,307,630,Clear,21.04.15
+Average,BDL,13,167,370,Clear,21.05.15
+Average,BDL,BDL,107,345,Clear,21.06.15
+Average,BDL,BDL,45,80,"Cloudy &
+Rainy",21.07.15
+Average,BDL,BDL,43,87,Clear,21.09.15
+Average,BDL,50,364,580,Clear,21.11.15
+Average,BDL,26,461,619,Clear,21.12.15
+Average,BDL,13,181,209,Cloudy &,22.01.15
+Average,BDL,47,144,348,Clear,22.02.15
+Average,BDL,15,139,236,Clear,22.03.15
+Average,BDL,16,228,478,Clear,22.04.15
+Average,BDL,BDL,49,95,"Partially
+Cloudy",22.07.15
+Average,BDL,BDL,50,209,Partially,22.08.15
+Average,BDL,BDL,,,clear,22.09.15
+Average,BDL,35,378,595,Clear,22.11.15
+Average,BDL,26,414,542,Clear,22.12.15
+Average,BDL,17,185,346,Clear,23.02.15
+Average,BDL,24,126,257,Clear,23.03.15
+Average,BDL,18,251,430,Clear,23.04.15
+Average,BDL,11,349,595,Clear,23.05
+Average,BDL,BDL,110,275,Clear,23.06.15
+Average,BDL,BDL,47,110,"Partially
+Cloudy",23.07.15
+Average,BDL,BDL,53,112,Partially,23.08.15
+Average,BDL,9,65,152,Clear,23.09.15
+Average,BDL,11,322,496,Clear,23.11.15
+Average,BDL,34,440,571,Clear,23.12.15
+Average,BDL,17,139,203,Cloudy,24.01.15
+Average,BDL,9,151,294,Clear,24.02.15
+Average,BDL,15,151,221,Clear,24.03.15
+Average,BDL,11,216,632,Clear,24.04.15
+Average,BDL,16,67,166,Cloudy,24.05.15
+Average,BDL,BDL,42,128,Partially,24.06.15
+Average,BDL,13,169,255,Clear,24.08.15
+Average,BDL,16,283,527,Clear,24.09.15
+Average,BDL,21,136,159,Cloudy &,24.11.15
+Average,5,16,171,343,Clear,
+Average,BDL,BDL,135,229,Clear,
+Average,BDL,BDL,186,674,Clear,
+Average,BDL,BDL,316,476,Clear,
+Average,BDL,BDL,23,65,"Partially
+Cloudy",
+Average,BDL,BDL,67,178,Partially,
+Average,5,15,179,487,Partially,
+Average,BDL,20,182,402,Clear,
+Average,BDL,BDL,115,315,Clear,
+Average,5,13,201,536,Clear,
+Average,BDL,BDL,29,106,Cloudy,
+Average,BDL,10,65 198,,Partially,
+Average,BDL,11,171,297,Clear,
+Average,BDL,29,259,475,Clear,
+Average,BDL,19,214,400,Clear,
+Average,BDL,10,196 253,,Cloudy,
+Average,BDL,BDL,126 451,,Clear,
+Average,BDL,33,242 397,,Clear,
+Average,BDL,BDL,32,107,"Partially
+Cloudy",
+Average,5,14,152,244,Clear,
+Average,BDL,30,219,351,Clear,
+Average,BDL,13,203 278,,Partially,
+Average,BDL,64,118 248,,Clear,
+Average,BDL,15,150 310,,Clear,
+Average,BDL,9,104 238,,Clear,
+Average,BDL,11,501 780,,Dust  Strom,
+Average,BDL,BDL,123,259,Clear,
+Average,BDL,16,164,261,Clear,
+Average,BDL,BDL,72 114,,Clear,
+Average,BDL,29,204,452,Clear,
+Average,BDL,22,221 256,,Clear,
+Average,BDL,17,132 274,,Partially,
+Average,BDL,BDL,144 396,,Clear,
+Average,BDL,BDL,22,97,"Partially
+Cloudy",
+Average,BDL,BDL,102 185,,Partially,
+Average,BDL,14,79 112,,Clear,
+Average,BDL,26,399,649,Clear,
+Average,BDL,27,211,453,Clear,
+Average,BDL,12,54 81,,Cloudy &,
+Average,BDL,10,212 428,,Clear,
+Average,4,10,295 666,,Clear,
+Average,BDL,BDL,29,56,Cloudy,
+Average,4,BDL,35,109,Cloudy,
+Average,BDL,BDL,88 182,,Clear,
+Average,BDL,23,134,258,Clear,
+Average,BDL,45,373,693,Clear,
+Average,BDL,34,352,476,Clear,
+Average,4,23,- -,,Clear,
+Average,BDL,14,98 136,,Partially,
+Average,BDL,BDL,494 986,,Partially,
+Average,BDL,BDL,87 189,,Clear,
+Average,BDL,10,185 276,,Clear,
+Average,BDL,31,363,506,Clear,
